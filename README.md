@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer (Flutter & PHP) from Egypt 🌟</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Flutter+Developer;Mobile+App+Developer;1%2B+Years+of+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Flutter+Developer;Mobile+App+Developer;UI%2FUX+Designer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,42 +17,101 @@
   </a>
 </p>
 
-### 👨‍💻 About Me:
-- 🎓 Bachelor's in Systems and Computer Engineering from Al-Azhar University
-- 💼 Currently working as a Full Stack Mobile Developer
-- 🌱 Always learning and exploring new technologies
-- 📱 Specialized in Flutter & PHP development
-- 🚀 Passionate about creating efficient and scalable applications
+### 👨‍💻 About Me
+Mobile Developer and Software Engineer with more than 1 year of experience, demonstrating a proven track record in building successful solutions for small and medium-sized businesses. Seeking a full-time position to leverage my skills and contribute to a team of talented developers.
 
-### 🛠️ Tech Stack:
+### 🎓 Education & Training
+- **Bachelor's Degree in Systems and Computer Engineering**
+  - Al-Azhar University, Egypt (2018-2023)
+- **Flutter Cross Mobile Diploma** - Senior Steps-IT Training Center (2021-2022)
+- **Advanced Flutter Development** - Udemy [Abdallah Mansour] (2022)
+- **IEEE Al-Azhar Training** (2022-2023)
+
+### 💼 Work Experience
+#### MediaZone Company
+- Developed and published Ghayti Passenger & Driver apps on Google Play Store
+- Created Flutter Web admin dashboard for centralized management
+- Implemented real-time tracking and booking system
+
+#### SSG Company
+- Developed Zeus Cards App for currency exchange
+- Implemented real-time support system with <2-minute response time
+- Integrated 5 payment gateways
+
+#### Freelance Work
+- UI/UX Designer on Fiverr since 2022
+- Full Stack Mobile Developer on Fiverr since 2024
+
+### 🛠 Technical Skills
+#### Development
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+#### Architecture & Patterns
+<p align="left">
+  <img src="https://img.shields.io/badge/Clean_Architecture-FF6B6B?style=for-the-badge&logo=clean-architecture&logoColor=white" alt="Clean Architecture"/>
+  <img src="https://img.shields.io/badge/Bloc_Pattern-000000?style=for-the-badge&logo=bloc&logoColor=white" alt="Bloc"/>
+  <img src="https://img.shields.io/badge/GetX-6B52AE?style=for-the-badge&logo=getx&logoColor=white" alt="GetX"/>
+  <img src="https://img.shields.io/badge/SOLID-4C4C4C?style=for-the-badge&logo=solid&logoColor=white" alt="SOLID"/>
+</p>
+
+#### Tools & Technologies
+<p align="left">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white" alt="Adobe XD"/>
-  <img src="https://img.shields.io/badge/Data_Structures-FF6B6B?style=for-the-badge&logo=treehouse&logoColor=white" alt="Data Structures"/>
-  <img src="https://img.shields.io/badge/SOLID-4C4C4C?style=for-the-badge&logo=solid&logoColor=white" alt="SOLID Principles"/>
 </p>
 
-### 🏆 Featured Projects:
-- 📱 [Full Ecommerce App](https://github.com/mohamad-talaat/Full_Ecommerce-app-Flutter-PHP-Customer) - Complete E-commerce solution with Customer, Delivery & Admin Panel
-- 🚗 [Ghayti Dashboard](https://drive.google.com/drive/folders/your-folder-id) - Admin Control Panel for Ride-Sharing Service
-- 🚕 [Ghayti Driver App](https://drive.google.com/drive/folders/your-folder-id) - Driver-side Application for Ride Service
-- 🏥 [Medical Care App](https://github.com/mohamad-talaat/graduation-proj-care_for_you-midical-app) - Home care application for nurses and patients
-- 📚 [E-book App](https://github.com/mohamad-talaat/ebook-app) - Digital book reader with categories
-- 💳 Zeus Cards App - Currency exchange application with multiple payment gateways
-- 🎮 [Kids Play App](https://github.com/mohamad-talaat/kids-play) - Educational app for children
-- 📱 [Information Devices App](https://github.com/mohamad-talaat/information_devices) - Device information and management app
+#### Design Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white" alt="Adobe XD"/>
+</p>
 
-### 📊 GitHub Stats:
+### 🚀 Featured Projects
+
+#### Commercial Projects
+- 🚗 [Ghayti System](https://github.com/mohamad-talaat/ghayti)
+  - Passenger App | Driver App | Admin Dashboard
+  - Complete ride-sharing solution with real-time tracking
+  
+- 💳 [Zeus Cards](https://github.com/mohamad-talaat/zeus-cards)
+  - Currency exchange app with multi-payment support
+  - Real-time rates and instant transactions
+
+#### Personal Projects
+- 🛒 [Full E-commerce System](https://github.com/mohamad-talaat/Full_Ecommerce-app-Flutter-PHP-Customer)
+  - Customer, Delivery & Admin Panel
+  - Features: Authentication, Categories, Cart, Order Tracking, Payments
+  
+- 🏥 [Care For You](https://github.com/mohamad-talaat/graduation-proj-care_for_you-midical-app)
+  - Medical care application (Graduation Project)
+  - Led 5-person team to achieve A+ grade
+  
+- 📚 [E-book App](https://github.com/mohamad-talaat/ebook-app)
+  - Digital book reader with categories
+  - Offline reading support
+
+#### Additional Projects
+- 📰 [News App](https://github.com/mohamad-talaat/news-app) - Category-based news aggregator
+- 🌤️ [Weather App](https://github.com/mohamad-talaat/weather-app) - GPS-based weather tracking
+- 🔐 [Auth System](https://github.com/mohamad-talaat/auth-system) - Flutter + PHP authentication
+- 📝 [Notes App](https://github.com/mohamad-talaat/notes-app) - Firebase-powered note-taking
+
+### 🏆 Achievements & Activities
+- Best Graduation Project of Day and Semester (A+ Grade)
+- Orange Flutter Hackathon Participant (2022)
+- IEEE Al-Azhar Training (2022-2023)
+- ECPC Programming Competition (2021)
+
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamad-talaat&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
@@ -60,12 +119,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamad-talaat&theme=radical" alt="GitHub Streak" />
 </p>
 
-### 🌟 Achievements:
-- 🏆 Best Graduation Project (A+ Grade)
-- 🥇 Orange Flutter Hackathon Participant (2022)
-- 📊 ECPC Programming Competition Participant (2021)
-
-### 📫 Let's Connect:
-- LinkedIn: [Muhammad Talaat](https://www.linkedin.com/in/engmota)
-- Email: motalaat1610@gmail.com
-- Phone: +201013280650
+### 📫 Contact Me
+- **Location:** Nasser City, Egypt
+- **Email:** motalaat1610@gmail.com
+- **Phone:** +201013280650
+- **LinkedIn:** [Muhammad Talaat](https://www.linkedin.com/in/engmota)
