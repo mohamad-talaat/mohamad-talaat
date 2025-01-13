@@ -29,17 +29,28 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white" alt="Adobe XD"/>
+  <img src="https://img.shields.io/badge/Data_Structures-FF6B6B?style=for-the-badge&logo=treehouse&logoColor=white" alt="Data Structures"/>
+  <img src="https://img.shields.io/badge/SOLID-4C4C4C?style=for-the-badge&logo=solid&logoColor=white" alt="SOLID Principles"/>
 </p>
 
 ### 🏆 Featured Projects:
 - 📱 [Full Ecommerce App](https://github.com/mohamad-talaat/Full_Ecommerce-app-Flutter-PHP-Customer) - Complete E-commerce solution with Customer, Delivery & Admin Panel
+- 🚗 [Ghayti Dashboard](https://drive.google.com/drive/folders/your-folder-id) - Admin Control Panel for Ride-Sharing Service
+- 🚕 [Ghayti Driver App](https://drive.google.com/drive/folders/your-folder-id) - Driver-side Application for Ride Service
 - 🏥 [Medical Care App](https://github.com/mohamad-talaat/graduation-proj-care_for_you-midical-app) - Home care application for nurses and patients
 - 📚 [E-book App](https://github.com/mohamad-talaat/ebook-app) - Digital book reader with categories
-- 💳 Zeus Cards App - Currency exchange application
+- 💳 Zeus Cards App - Currency exchange application with multiple payment gateways
+- 🎮 [Kids Play App](https://github.com/mohamad-talaat/kids-play) - Educational app for children
+- 📱 [Information Devices App](https://github.com/mohamad-talaat/information_devices) - Device information and management app
 
 ### 📊 GitHub Stats:
 <p align="center">
