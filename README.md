@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hello, I'm Muhammad Talaat</h1>
-<h3 align="center">Full Stack Developer (Flutter & PHP) from Egypt 🌟</h3>
+<h3 align="center">Full Stack Developer (Flutter & PHP) 🌟</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Flutter+Developer;Mobile+App+Developer;UI%2FUX+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Mobile+Developer;Flutter+Developer;PHP+Backend;UI%2FUX+Designer" alt="Typing SVG" />
 </p>
 
 <p align="center">
