@@ -18,7 +18,7 @@
 </p>
 
 ### 👨‍💻 About Me
-Mobile Developer and Software Engineer with more than 1 year of experience, demonstrating a proven track record in building successful solutions for small and medium-sized businesses. Seeking a full-time position to leverage my skills and contribute to a team of talented developers.
+Mobile Developer and Software Engineer, demonstrating a proven track record in building successful solutions for small and medium-sized businesses. Seeking a full-time position to leverage my skills and contribute to a team of talented developers.
 
 ### 🎓 Education & Training
 - **Bachelor's Degree in Systems and Computer Engineering**
