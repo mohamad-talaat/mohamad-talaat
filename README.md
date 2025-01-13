@@ -80,15 +80,15 @@ Mobile Developer and Software Engineer with more than 1 year of experience, demo
 #### Commercial Projects
 - 🚗 [Ghayti System](https://play.google.com/store/apps/details?id=com.GRider.RiderG)
   - Passenger App | Driver App | Admin Dashboard
-  - (https://drive.google.com/drive/u/0/folders/1nKyvxY7YSKN2ZevNxEUyY3yz0O7vxjtQ)
+  - 🚗 [Ghayti Admin Panel](https://drive.google.com/drive/u/0/folders/1nKyvxY7YSKN2ZevNxEUyY3yz0O7vxjtQ)
   - Complete ride-sharing solution with real-time tracking
   
-- 💳 [Zeus Cards]([https://github.com/mohamad-talaat/zeus-cards](https://play.google.com/store/apps/details?id=zeus.app.com))
+- 💳 [Zeus Cards](https://play.google.com/store/apps/details?id=zeus.app.com)
   - Currency exchange app with multi-payment support
   - Real-time rates and instant transactions
 
 #### Personal Projects
-- 🛒 [Full E-commerce System](https://github.com/mohamad-talaat/Full_Ecommerce-app-Flutter-PHP-Customer)
+- 🛒 [Full E-commerce System](https://github.com/mohamad-talaat/full-ecommerce-app)
   - Customer, Delivery & Admin Panel
   - Features: Authentication, Categories, Cart, Order Tracking, Payments
   
