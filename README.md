@@ -78,7 +78,7 @@ Mobile Developer and Software Engineer with more than 1 year of experience, demo
 ### 🚀 Featured Projects
 
 #### Commercial Projects
-- 🚗 [Ghayti System](https://play.google.com/store/apps/details?id=com.GRider.RiderG) )
+- 🚗 [Ghayti System](https://play.google.com/store/apps/details?id=com.GRider.RiderG)
   - Passenger App | Driver App | Admin Dashboard
   - (https://drive.google.com/drive/u/0/folders/1nKyvxY7YSKN2ZevNxEUyY3yz0O7vxjtQ)
   - Complete ride-sharing solution with real-time tracking
