@@ -121,7 +121,6 @@ Mobile Developer and Software Engineer with more than 1 year of experience, demo
 </p>
 
 ### 📫 Contact Me
-- **Location:** Nasser City, Egypt
-- **Email:** motalaat1610@gmail.com
+ - **Email:** motalaat1610@gmail.com
 - **Phone:** +201013280650
 - **LinkedIn:** [Muhammad Talaat](https://www.linkedin.com/in/engmota)
