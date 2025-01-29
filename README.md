@@ -73,8 +73,8 @@ Mobile Developer and Software Engineer, demonstrating a proven track record in b
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white" alt="Adobe XD"/> 
-  <img src="https://img.shields.io/badge/Adobe%20photoshop-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white" alt="Adobe XD"/> 
-  <img src="https://img.shields.io/badge/Adobe%20illustrator-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white" alt="Adobe XD"/> 
+  <img src="https://img.shields.io/badge/Adobe%20photoshop-4479A1?style=for-the-badge&logo=adobe%20xd&logoColor=white" alt="Adobe XD"/> 
+  <img src="https://img.shields.io/badge/Adobe%20illustrator-FFCA28?style=for-the-badge&logo=adobe%20xd&logoColor=white" alt="Adobe XD"/> 
 </p>
 
 ### 🚀 Featured Projects
